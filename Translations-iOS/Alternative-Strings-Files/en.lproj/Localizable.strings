@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ of %@ items";
 
 /* No comment provided by engineer. */
+"%@." = "%@.";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld items";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "Allocated size";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance";
 
 /* No comment provided by engineer. */
 "archive" = "archive";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "The changes could not be saved";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "The character %@ is not compatilbe with the %@ format.";
+"The character %@ is not compatible with the %@ format." = "The character %@ is not compatible with the %@ format.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "The characters %@ are not compatilbe with the %@ format.";
+"The characters %@ are not compatible with the %@ format." = "The characters %@ are not compatible with the %@ format.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.";
@@ -584,6 +590,9 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder.";
 
 /* No comment provided by engineer. */
+"To be implemented" = "To be implemented";
+
+/* No comment provided by engineer. */
 "To extract" = "To extract";
 
 /* No comment provided by engineer. */
@@ -600,6 +609,9 @@
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "TRANSLATOR_NAME";
+
+/* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory.";
 
 /* No comment provided by engineer. */
 "Type" = "Type";
@@ -629,13 +641,25 @@
 "Use AES-256 if Available" = "Use AES-256 if Available";
 
 /* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible";
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task";
+
+/* No comment provided by engineer. */
 "Use special coloring for known formats" = "Use special coloring for known formats";
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Use UTF-8 Encoding if Available";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly.";
+
+/* No comment provided by engineer. */
 "verification failed" = "verification failed";
+
+/* No comment provided by engineer. */
+"verified" = "verified";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Verify compression integrity";
@@ -648,9 +672,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Verifying";
-
-/* No comment provided by engineer. */
-"verifyed" = "verifyed";
 
 /* No comment provided by engineer. */
 "Verify…" = "Verify…";

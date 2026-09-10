@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ из %@ объект.";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld объект.";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "Размер на диске";
+
+/* Appearance settings title. */
+"Appearance" = "Оформление";
 
 /* No comment provided by engineer. */
 "archive" = "архив";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Изменения не могут быть сохранены";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Символ %@ не совместим с форматом %@.";
+"The character %@ is not compatible with the %@ format." = "Символ %@ не совместим с форматом %@.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Символы %@ не совместимы с форматом %@.";
+"The characters %@ are not compatible with the %@ format." = "Символы %@ не совместимы с форматом %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Для сжатия может потребоваться больше памяти, чем доступно (%@), и оно может завершиться неудачно. Будет ограничено 1 потоком.";
@@ -584,6 +590,9 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Для открытия этого тома требуется доступ к дополнительным файлам.\nВы можете предоставить доступ к остальным файлам или к родительской папке.";
 
 /* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "To extract" = "Распаковать";
 
 /* No comment provided by engineer. */
@@ -600,6 +609,9 @@
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "Alexey Ladygin";
+
+/* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Попробуйте снизить уровень до более быстрого сжатия, это потребляет меньше памяти.";
 
 /* No comment provided by engineer. */
 "Type" = "Тип содержимого";
@@ -629,13 +641,25 @@
 "Use AES-256 if Available" = "Использовать шифрование AES-256, если возможно";
 
 /* No comment provided by engineer. */
+"Use Binaries if Possible" = "Использовать исполняемые файлы, если возможно";
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Использовать непрерывные фоновые задачи";
+
+/* No comment provided by engineer. */
 "Use special coloring for known formats" = "Цветовой акцент для известных форматов";
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Использовать кодировку UTF-8, если возможно";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Работа с Keka через действия и расширения ограничена в использовании памяти.\nПопробуйте выполнить эту операцию непосредственно в приложении.";
+
+/* No comment provided by engineer. */
 "verification failed" = "проверка не удалась";
+
+/* No comment provided by engineer. */
+"verified" = "проверен";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Проверить целостность сжатия";
@@ -648,9 +672,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Проверить";
-
-/* No comment provided by engineer. */
-"verifyed" = "проверен";
 
 /* No comment provided by engineer. */
 "Verify…" = "Проверить…";

@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ / %@ kohteista";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "Varattu koko";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "archive" = "archive"; // THIS IS NOT LOCALIZED
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Muutoksia ei voitu tallentaa";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Kirjainmerkki %@ ei ole yhteensopiva %@-muodon kanssa.";
+"The character %@ is not compatible with the %@ format." = "Kirjainmerkki %@ ei ole yhteensopiva %@-muodon kanssa.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Kirjainmerkit %@ eivät ole yhteensopivia %@-muodon kanssa.";
+"The characters %@ are not compatible with the %@ format." = "Kirjainmerkit %@ eivät ole yhteensopivia %@-muodon kanssa.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Pakkaus saattaa vaatia enemmän muistia kuin mitä on saatavilla (%@), ja ei välttämättä suoriudu onnistuneesti. Rajoitetaan yhteen säikeeseen.";
@@ -584,6 +590,9 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "To extract" = "Purkaa";
 
 /* No comment provided by engineer. */
@@ -600,6 +609,9 @@
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "Piipperi";
+
+/* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Type" = "Tyyppi";
@@ -629,13 +641,25 @@
 "Use AES-256 if Available" = "Käytä AES-256-salausta jos saatavilla";
 
 /* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Use special coloring for known formats" = "Käytä erityistä väritystä tunnetuille muodoille";
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Käytä UTF-8 enkoodausta jos saatavilla";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"verified" = "verified"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
@@ -648,9 +672,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Tarkistetaan";
-
-/* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Verify…" = "Verify…"; // THIS IS NOT LOCALIZED

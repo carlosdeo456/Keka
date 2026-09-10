@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "需要密碼才能解壓縮「%@」檔案";
 "File \"%@\" needs a special encoding to be extracted" = "需要特殊編碼才能解壓縮「%@」檔案";
 "Extraction of \"%@\" done" = "解壓縮「%@」完成";
-"Extraction of \"%@\" failed." = "解壓縮「%@」失敗。";
 "Extraction of %i files done" = "解壓縮 %i 個檔案完成";
 "Extraction complete" = "解壓縮完成";
 "Extraction fail" = "解壓縮失敗";
@@ -73,7 +72,6 @@
 "Keka - %i on queue" = "Keka - %i 個正在排隊";
 "Keka can't create this %@ image" = "Keka 無法建立此 %@ 映像檔";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "建立 %@ 映像檔只能有一個檔案夾。請試試將所有檔案放在一個檔案夾中，並將其拖曳到 Keka 以建立 %@ 映像檔。";
-"Keka can't create this @% tarball" = "Keka 無法建立此 @% 檔案的 Tarball。";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka 只能建立僅有一個檔案的 LRZIP 封存檔。請先將您的檔案封存成 TAR 檔案再行加密。";
 "This operation is not supported on %@." = "尚未在 %@ 支援此動作。";
 "Compress \"%@\" in %@ to..." = "壓縮 %2$@ 中的「%1$@」至⋯";
@@ -129,7 +127,7 @@
 "4.7 GB DVD" = "4.7 GB DVD";
 "Drop here to extract" = "拖曳到此以解壓縮";
 "Drop here to compress" = "拖曳到此以壓縮";
-"Binary \"%@\" is not accessible" = "無法存取「%@」二進位檔案";
+"Binary \"%@\" is not accessible" = "無法存取「%@」二進位程式";
 "The first part \"%@\" can't be found" = "找不到「%@」的第一部分";
 "Unable to extract a folder" = "無法解壓縮檔案夾";
 "unknown" = "未知";
@@ -153,6 +151,9 @@
 "Can't open the file, maybe it's not accessible" = "無法打開檔案，可能無法存取";
 "No files matching the mask" = "沒有符合遮罩的檔案";
 "There were some read errors" = "可能有讀取錯誤";
+"Dismissed trailing data, the extraction might be incomplete" = "已捨棄尾部資料，解壓縮的結果可能不完整";
+"Window size not supported, too much memory required" = "不支援此視窗大小，記憶體需求過大";
+"The headers contain errors, the extraction might be invalid" = "標頭包含錯誤，解壓縮可能無效";
 "Give access" = "授予取用權限";
 "Just folder access" = "只有檔案夾取用權限";
 "Quit" = "結束";
@@ -251,7 +252,7 @@
 "Show password" = "顯示密碼";
 "Hide password" = "隱藏密碼";
 "Settings" = "偏好設定";
-"Format Selector" = "Format Selector";
+"Format Selector" = "格式選擇器";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "偏好設定⋯";

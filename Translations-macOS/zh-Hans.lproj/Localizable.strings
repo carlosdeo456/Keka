@@ -19,14 +19,13 @@
 "Set as default compressor" = "设置为默认压缩工具";
 "Not now" = "现在不";
 "Want to make Keka your default compressor?" = "想把 Keka 设置为默认压缩工具吗？";
-"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "这表示所有兼容的文件将会使用 Keka 进行提取。您可以稍后在 Keka 首选项中设置";
+"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "这表示所有兼容的文件将会使用 Keka 进行提取。您可以稍后在 Keka 首选项中设置。";
 "Really want to close Keka?" = "确认关闭 Keka？";
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "当前操作将被取消。如果您选择等待并退出，Keka 将在完成所有工作后退出。";
 "Password needed" = "需要密码";
 "File \"%@\" needs a password to be extracted" = "文件“%@”需要密码才能被提取";
 "File \"%@\" needs a special encoding to be extracted" = "文件“%@”需指定编码才能被提取";
 "Extraction of \"%@\" done" = "提取“%@”完成";
-"Extraction of \"%@\" failed." = "提取“%@”失败.";
 "Extraction of %i files done" = "%i 个文件提取完成";
 "Extraction complete" = "提取完成";
 "Extraction fail" = "提取失败";
@@ -69,11 +68,10 @@
 "Select the folder that contains \"%@\"." = "选择包含“%@”的文件夹。";
 "Extraction of \"%@\" failed" = "提取“%@”失败";
 "Extraction of \"%@\" completed" = "提取“%@”完成";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "提取已完成，但未应用隔离。\n请重新安装 Keka 以解决该问题。";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "提取已完成，但未应用隔离。\n请重新安装 Keka 以解决该问题";
 "Keka - %i on queue" = "Keka - %i 排队中";
 "Keka can't create this %@ image" = "Keka 不能创建 %@ 映像";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "您只能使用单个文件夹创建 %@ 映像。尝试所有文件放在一个文件夹中，再拖动到 Keka 以创建 %@ 映像。";
-"Keka can't create this @% tarball" = "Keka 无法创建此 @% 压缩包";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka 只能为单个文件创建加密 LRZIP 归档。请先为您的文件创建一个的 TAR 归档，然后再加密它。";
 "This operation is not supported on %@." = "该操作在 %@ 上不受支持。";
 "Compress \"%@\" in %@ to..." = "在 %@ 压缩“%@” 至…";
@@ -153,6 +151,9 @@
 "Can't open the file, maybe it's not accessible" = "无法打开文件，可能它无法访问";
 "No files matching the mask" = "没有与掩码匹配的文件";
 "There were some read errors" = "出现读取错误";
+"Dismissed trailing data, the extraction might be incomplete" = "已忽略尾部数据，提取结果可能不完整";
+"Window size not supported, too much memory required" = "窗口大小不受支持，所需内存过多";
+"The headers contain errors, the extraction might be invalid" = "头部信息存在错误，提取结果可能无效";
 "Give access" = "授予访问权限";
 "Just folder access" = "仅文件夹访问权限";
 "Quit" = "退出";
@@ -189,7 +190,7 @@
 "Delete" = "删除";
 "Continue without encryption" = "不加密并继续";
 "The password does not match" = "密码不匹配";
-"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "密码设置不正确且文件无法加密。您可以取消并重新设置密码或者在不加密的情况下继续";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "密码设置不正确且文件无法加密。您可以取消并重新设置密码或者在不加密的情况下继续。";
 "Use legacy encryption" = "使用旧版加密";
 "Using AES-256 encryption in ZIP" = "在 ZIP 中使用 AES-256 加密";
 "Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "注意，现有的大多数操作系统例如 macOS（在 macOS 11.0 Big Sur 之前）或 Windows 默认不支持 AES-256 加密的 ZIP 文件。\n\n您可以使用大多数第三方提取工具轻松的打开这些文件。";

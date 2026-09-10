@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@/%@ 선택됨";
 
 /* No comment provided by engineer. */
+"%@." = "%@.";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld개의 항목";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "할당된 크기";
+
+/* Appearance settings title. */
+"Appearance" = "표시";
 
 /* No comment provided by engineer. */
 "archive" = "아카이브";
@@ -392,10 +398,10 @@
 "Modified" = "수정일";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "압축 해제 후 압축 파일을 휴지통으로 이동";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "압축 후 원본 파일을 휴지통으로 이동";
 
 /* No comment provided by engineer. */
 "Name" = "이름";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "변경 사항을 저장할 수 없습니다";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "%@ 문자가 %@ 형식과 호환되지 않습니다.";
+"The character %@ is not compatible with the %@ format." = "%@ 문자가 %@ 형식과 호환되지 않습니다.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "%@ 문자가 %@ 형식과 호환되지 않습니다.";
+"The characters %@ are not compatible with the %@ format." = "%@ 문자가 %@ 형식과 호환되지 않습니다.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "압축 시 사용 가능한 공간(%@)보다 더 많은 용량이 필요할 수 있으며, 압축을 성공하지 못할 수 있습니다. 스레드 수는 1개로 제한됩니다.";
@@ -584,6 +590,9 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "이 볼륨 파일을 열려면 파일 접근 권한이 추가로 필요합니다.\n나머지 파일이나 상위 폴더에 대해 접근 권한을 부여해 주세요.";
 
 /* No comment provided by engineer. */
+"To be implemented" = "구현 예정";
+
+/* No comment provided by engineer. */
 "To extract" = "압축 해제";
 
 /* No comment provided by engineer. */
@@ -600,6 +609,9 @@
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "justcontributor";
+
+/* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "더 빠른 압축 방법으로 시도하세요, 더 적은 메모리를 사용합니다.";
 
 /* No comment provided by engineer. */
 "Type" = "유형";
@@ -629,13 +641,25 @@
 "Use AES-256 if Available" = "가능하면 AES-256 암호화 사용";
 
 /* No comment provided by engineer. */
+"Use Binaries if Possible" = "가능하면 바이너리 사용";
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "연속적인 백그라운드 작업 사용";
+
+/* No comment provided by engineer. */
 "Use special coloring for known formats" = "알려진 형식에 특별한 색상 적용";
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "가능하면 UTF-8 인코딩 사용";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Keka를 액션과 확장으로 구동하면 메모리가 제한됩니다.\nKeka를 직접 구동하는 이 작업을 시도해보세요.";
+
+/* No comment provided by engineer. */
+"verification failed" = "검증 실패";
+
+/* No comment provided by engineer. */
+"verified" = "검증됨";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "압축 무결성 검사";
@@ -650,10 +674,7 @@
 "VERIFY_SECTION_TITLE" = "검증";
 
 /* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
+"Verify…" = "검증…";
 
 /* No comment provided by engineer. */
 "Volume Size" = "볼륨 크기";

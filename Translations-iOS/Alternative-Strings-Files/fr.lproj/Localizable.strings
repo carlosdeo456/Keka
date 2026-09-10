@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ de %@ objets";
 
 /* No comment provided by engineer. */
+"%@." = "%@.";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld objets";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "Taille allouée";
+
+/* Appearance settings title. */
+"Appearance" = "Apparence";
 
 /* No comment provided by engineer. */
 "archive" = "archive";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Les modifications n'ont pas pu être enregistrées";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Le caractère %@ n'est pas compatible avec le format %@.";
+"The character %@ is not compatible with the %@ format." = "Le caractère %@ n'est pas compatible avec le format %@.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Les caractères %@ ne sont pas compatibles avec le format %@.";
+"The characters %@ are not compatible with the %@ format." = "Les caractères %@ ne sont pas compatibles avec le format %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "La compression peut nécessiter plus de mémoire que les (%@) disponibles et peut ne pas compléter correctement. Sera limitée à 1 fil";
@@ -584,6 +590,9 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Ce fichier de volum nécessite un accès supplémentaire aux fichiers pour être ouvert.\nVous pouvez donner accès au reste des fichiers ou au dossier parent.";
 
 /* No comment provided by engineer. */
+"To be implemented" = "A mettre en place";
+
+/* No comment provided by engineer. */
 "To extract" = "A extraire";
 
 /* No comment provided by engineer. */
@@ -600,6 +609,9 @@
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "Marc66";
+
+/* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Essayer de réduire le niveau de compression, les niveaux plus rapides utilisent moins de mémoire.";
 
 /* No comment provided by engineer. */
 "Type" = "Type";
@@ -629,13 +641,25 @@
 "Use AES-256 if Available" = "Utiliser AES-256 si disponible";
 
 /* No comment provided by engineer. */
+"Use Binaries if Possible" = "Utiliser des fichiers exécutables si possible";
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Utiliser une tâche en arrière-plan continue";
+
+/* No comment provided by engineer. */
 "Use special coloring for known formats" = "Utiliser une colorisation spéciale pour les formats connus";
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Utiliser l'encodage UTF-8 si disponible";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "L'utilisation de Keka à travers des actions et extensions présente des limites de mémoire.\nEssayer cette opération en utilisation Keka directement.";
+
+/* No comment provided by engineer. */
 "verification failed" = "vérification échouée";
+
+/* No comment provided by engineer. */
+"verified" = "vérification en cours";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Vérifier l'intégrité de la compression";
@@ -648,9 +672,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Vérification";
-
-/* No comment provided by engineer. */
-"verifyed" = "vérification en cours";
 
 /* No comment provided by engineer. */
 "Verify…" = "Vérifier…";
